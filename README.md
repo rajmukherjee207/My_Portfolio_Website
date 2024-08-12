@@ -1,9 +1,9 @@
-One-page Bootstrap 4 HTML5 Personal Portfolio Website Template
+##One-page Bootstrap 4 HTML5 Personal Portfolio Website Template
 
 It comes with a lot of modern and tech-savvy features like hero header, slider, sticky navigation, hover effect, call to action buttons, to name a few. Besides, the package includes an easily customizable code structure to make further alterations easy and smooth for you. It will save you time and effort. Get your site rolling with Clark and shine online.
 
  
-Key Features
+##Key Features
 
 1.    Bootstrap 4
 2.    Clean and minimal design
@@ -30,7 +30,7 @@ Key Features
    
 
  
-In The Box
+##In The Box
 
 1.    All demo images
 2.    2 HTML files
@@ -41,7 +41,7 @@ In The Box
 
 
  
-Libraries and Plugins
+##Libraries and Plugins
 
    1. Bootstrap 4
    2. Owl Carousel
