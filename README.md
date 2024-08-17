@@ -1,6 +1,6 @@
 One-page Bootstrap 4 HTML5 Personal Portfolio Website Template
 
-It comes with a lot of modern and tech-savvy features like hero header, slider, sticky navigation, hover effect, call to action buttons, to name a few. Besides, the package includes an easily customizable code structure to make further alterations easy and smooth for you. It will save you time and effort. Get your site rolling with Clark and shine online.
+It comes with a lot of modern and tech-savvy features like hero header, slider, sticky navigation, hover effect, call to action buttons, to name a few. Besides, the package includes an easily customizable code structure to make further alterations easy and smooth for you. It will save you time and effort.
 
  
 Key Features
